@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Abhishek-Singh
-- 👀 I’m interested in Front End Development
-- 🌱 I’m currently learning Backend Development and Data Management
-- 🏫 I'm currently studying in Delhi Public School Meerut 
+- 👀 I’m interested in ......
+- 🌱 I’m currently learning......
+- 🏫 I'm currently studying in....
+- 
 
 <!---
 Abhishek-Singh-29/Abhishek-Singh-29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
